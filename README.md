@@ -5,7 +5,7 @@
 
 
 ## Desafío: Maquetación de sitio web con HTML, CSS y Bootstrap, basado en investigación de usuario y la marca Feria Friki.
-## Build: ignaciovq27.github.io/feria-friki/
+## Build: https://ignaciovq27.github.io/feria-friki/
 ## Características:
 ### · Navbar con estructura de navegación simplificada, basada en los objetivos de reestructuración de la interacción de usuarios.
 ### · Carrusel principal con información de la marca y novedades de la web.
