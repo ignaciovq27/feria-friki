@@ -1,7 +1,7 @@
 
 # Proyecto Feria Friki - Diseño UX / UI
 
-<img src="assets/img/logo-footer.png" alt="Descripción de la imagen" width="300" height="200">
+<img src="assets/img/logo-footer.png" alt="Descripción de la imagen" width="200" height="200">
 
 
 ## Desafío: Maquetación de sitio web con HTML, CSS y Bootstrap, basado en investigación de usuario y la marca Feria Friki.
