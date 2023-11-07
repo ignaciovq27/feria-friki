@@ -1,0 +1,177 @@
+/* Versión Escritorio */
+
+@media (min-width: 825px) and (max-width: 2440px) {
+
+  .container {
+    max-width: 75%;
+  }
+
+  .productos img {
+    height: 20%;
+  }
+
+  .custom-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  .card-style {
+    width: 320PX;
+  }
+
+  .eventos {
+    min-width: 300px;
+    max-width: 700px;
+  }
+
+  .logo-footer-style {
+    min-width: 50px;
+    max-width: 200px;
+  }
+
+  .logo-container-toggler {
+    display: none;
+  }
+
+  .img-logo {
+    max-width: 100px;
+  }
+}
+
+/* Versión Tableta */
+
+@media (min-width: 535px) and (max-width: 824px) {
+
+  h1 {
+    font-size: 40px;
+  }
+
+  .container {
+    max-width: 75%;
+  }
+
+  .col-sm-3 {
+    flex-basis: 20%;
+  }
+
+  .custom-card img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  .custom-card h3 {
+    font-size: 15px;
+    font-weight: bold;
+  }
+
+  .custom-card p {
+    font-size: 15px;
+    font-weight: 500;
+  }
+
+  .btn {
+    font-size: 15px;
+    font-weight: bold;
+    transition: all 0.3s;
+  }
+
+  .card-style {
+    width: 260PX;
+  }
+
+  .eventos {
+    min-width: 200px;
+    max-width: 300px;
+  }
+
+  .logo-footer-style {
+    min-width: 50px;
+    max-width: 200px;
+  }
+
+  .logo-container-toggler {
+    display: flex;
+  }
+
+  .img-logo {
+    max-width: 60px;
+  }
+}
+
+/* Versione Mobile */
+
+@media (min-width: 200px) and (max-width: 534px) {
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .col-sm-3 {
+    flex-basis: 20%;
+    margin: auto;
+  }
+
+  .custom-card img {
+    width: auto;
+    height: auto;
+    object-fit: cover;
+  }
+
+  .custom-card h3 {
+    font-size: 12px;
+    font-weight: bold;
+  }
+
+  .custom-card p {
+    font-size: 12px;
+    font-weight: 500;
+  }
+
+  .btn {
+    font-size: 12px;
+    font-weight: bold;
+    transition: all 0.3s;
+  }
+
+  .container {
+    width: auto;
+  }
+
+  .card-style {
+    width: 200PX;
+    margin: auto;
+  }
+
+  .image-group {
+    flex-direction: column;
+  }
+
+  .eventos {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+  }
+
+  .logo-footer-style {
+    min-width: 50px;
+    max-width: 200px;
+  }
+
+  .footer-container {
+    display: flex;
+    flex-direction: column;
+    margin-right: 4px;
+    margin-left: 4px;
+  }
+
+  .logo-container-toggler {
+    display: flex;
+  }
+
+  .img-logo {
+    max-width: 50px;
+  }
+}
