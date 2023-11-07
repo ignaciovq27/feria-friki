@@ -1,5 +1,5 @@
 
-# Proyecto Feria Friki - Diseño UX / UI
+# Caso de estudio Feria Friki - Diseño UX / UI
 
 <img src="assets/img/logo-footer.png" alt="Descripción de la imagen" width="200" height="200">
 
