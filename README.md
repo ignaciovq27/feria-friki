@@ -6,6 +6,8 @@
 
 ## Desafío: Maquetación de sitio web con HTML, CSS y Bootstrap, basado en investigación de usuario y la marca Feria Friki.
 ## Build: https://ignaciovq27.github.io/feria-friki_caso-de-estudio/
+## Prototipo Figma: https://figmashort.link/GKrBir
+## Investigación de diseño UX / UI: https://www.behance.net/portfolio/editor?project_id=183981627 
 ## Características:
 ### · Navbar con estructura de navegación simplificada, basada en los objetivos de reestructuración de la interacción de usuarios.
 ### · Carrusel principal con información de la marca y novedades de la web.
